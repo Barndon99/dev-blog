@@ -1,4 +1,5 @@
-# brandon-blog
+# Brandon Builds Sh*t
+A simple blog written with Vue, and eventually hosted on Netlify where I write about all things dev. 
 
 ## Project setup
 ```
